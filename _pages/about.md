@@ -34,4 +34,6 @@ You can contact me via [email](mailto:lucia.innocenti@outlook.it) or [linkedin](
   <td><i class="fas fa-circle"></i> Optimization methods and Decision Making</td>
 </tr>
 </table>
+
+
 ---
