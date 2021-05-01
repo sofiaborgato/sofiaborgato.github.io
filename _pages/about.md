@@ -17,7 +17,7 @@ You can contact me via [email](mailto:lucia.innocenti@outlook.it) or [linkedin](
 ---
      
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0" align="center">
  <tr>
     <td><b style="font-size:30px">Interests</b></td>
     <td><b style="font-size:30px">Education</b></td>
