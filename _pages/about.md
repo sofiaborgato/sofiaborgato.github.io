@@ -23,15 +23,15 @@ You can contact me via [email](mailto:lucia.innocenti@outlook.it) or [linkedin](
     <td><b style="font-size:30px">Education</b></td>
  </tr>
  <tr>
-    <td>&#8680 Machine Learning</td>
+    <td><i class="fas fa-circle"></i> Machine Learning</td>
    <td><i class="fas fa-user-graduate"></i><a href="https://didattica.polito.it/laurea_magistrale/data_science/en/home"> Data science and Engineering - Polito</a></td>
  </tr>
  <tr>
-  <td>&#8680 Deep Learning</td>
+  <td><i class="fas fa-circle"></i> Deep Learning</td>
    <td><i class="fas fa-user-graduate"></i><a href="https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa.corsi?p_sdu_cds=37:18&p_a_acc=2021&p_header=N&p_lang=EN">Computer Engineering - Polito</a></td>
 </tr>
 <tr>
-  <td>&#8680 Optimization methods and Decision Making</td>
+  <td><i class="fas fa-circle"></i> Optimization methods and Decision Making</td>
 </tr>
 </table>
 ---
