@@ -23,16 +23,16 @@ You can contact me via [email](mailto:lucia.innocenti@outlook.it) or <a href="ht
  </tr>
 <tr>
   <td colspan="4" style="border:none !important" >
-  <ul style="list-style-type:none">
-    <li> <i class="fas fa-circle"></i> Machine Learning </li>
-    <li> <i class="fas fa-circle"></i> Deep Learning </li>
-    <li> <i class="fas fa-circle"></i> Optimization methods and Decision Making </li>
+  <ul style="list-style-type:none; padding:0">
+    <li style="margin-bottom: 15px;"> <i class="fas fa-circle"></i> Machine Learning </li>
+    <li style="margin-bottom: 15px;"> <i class="fas fa-circle"></i> Deep Learning </li>
+    <li style="margin-bottom: 15px;"> <i class="fas fa-circle"></i> Optimization methods and Decision Making </li>
   </ul>
   </td>
   <td colspan="4" style="border:none !important" >
-  <ul style="list-style-type:none">
-    <li> <i class="fas fa-user-graduate"></i><a href="https://didattica.polito.it/laurea_magistrale/data_science/en/home" target="_blank"> Data Science and Engineering</a></li> <p> Master's Degree, Politecnico di Torino,2020-2022 (expected)</p>
-    <li> <i class="fas fa-user-graduate"></i><a href="https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa.corsi?p_sdu_cds=37:18&p_a_acc=2021&p_header=N&p_lang=EN" target="_blank">Computer Engineering</a> </li> <p> Bachelor's Degree, Politecnico di Torino, 2016-2019 </p>
+  <ul style="list-style-type:none; padding:0">
+    <li style="margin-bottom: 15px;"> <i class="fas fa-user-graduate"></i><a href="https://didattica.polito.it/laurea_magistrale/data_science/en/home" target="_blank"> Data Science and Engineering</a></li> <p> Master's Degree, Politecnico di Torino,2020-2022 (expected)</p>
+    <li style="margin-bottom: 15px;"> <i class="fas fa-user-graduate"></i><a href="https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa.corsi?p_sdu_cds=37:18&p_a_acc=2021&p_header=N&p_lang=EN" target="_blank">Computer Engineering</a> </li> <p> Bachelor's Degree, Politecnico di Torino, 2016-2019 </p>
   </ul>
   </td>
 </tr>
