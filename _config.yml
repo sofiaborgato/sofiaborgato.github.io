@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &cia_innocenti
+  username               : "cia_innocenti"
 facebook:
   username               :
   app_id                 :
