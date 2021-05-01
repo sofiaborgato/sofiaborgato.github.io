@@ -17,34 +17,34 @@ Education
 
 Work experience
 ======
-* 2021: Data Scientist
+* **2021: Data Scientist**
   * MALTO university Team
   * Duties included: Data Science competitions
 
 
-* Oct19 - Feb20: Information Risk Managment intern
+* **Oct19 - Feb20: Information Risk Managment intern**
   * KPMG
   * Duties included: Support in Balance Sheet audit activities through IT controls testing; Data Analysis Projects and dashboards development
 
-* Oct17 - Mar18: General Director
+* **Oct17 - Mar18: General Director**
   * JEToP - Junior Enterprise Torino Politecnico
   * Duties included: Supervision of all projects, participation in Board activities and decisions, relationship management with external firms and the university
 
-* Mar17 - Oct17: IT Consultant
+* **Mar17 - Oct17: IT Consultant**
   * JEToP - Junior Enterprise Torino Politecnico
   * Duties included: Team-working in web development and cross-platform app development projects
 
 
 Skills
 ======
-* Programming languages
+* **Programming languages**
   * C
   * PYTHON (SKlearn, Pytorch, Tensforflow)
   * JAVA
-* Framework
+* **Framework**
   * Hadoop
   * Spark
-* Databases
+* **Databases**
   * SQL
   * NOSQL
  
