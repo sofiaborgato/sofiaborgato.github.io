@@ -15,10 +15,9 @@ In parallel with my studies, I always look for new experiences that allow me to 
 You can contact me via [email](mailto:lucia.innocenti@outlook.it) or [linkedin](https://www.linkedin.com/in/lucia-innocenti/).
 
 ---
+     
 
-**My interests:**        Machine Learning             Optimization methods               Deep Learning            
-
-<table border="0">
+<table>
  <tr>
     <td><b style="font-size:30px">Interests</b></td>
     <td><b style="font-size:30px">Education</b></td>
