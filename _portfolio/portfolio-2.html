@@ -1,7 +1,25 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Incremental learning"
+excerpt: "The main goal of this project is to implement a neural network capable of learning different tasks without forgetting the ones it has learned before."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The main goal of this project is to implement a neural network capable of learning different tasks without forgetting the ones it has learned before.
+This is a very important goal for neural network, the one that most approaches neural networks to artificial intelligence. 
+It is a relatively new problem, so in literature there are not so many papers. 
+We can formalize the purpose of this work in the following way: given a CNN with certain shared parameters $\theta_s$, add task specific parameters $\theta_n$ for a new task that works well both on old and new tasks.
+There are some constrains that defines that the network is incremental learning new tasks:
+<ul>
+    <li>item The model has to adapt gradually i.e. is constructed based on without complete retraining.
+    <li>item Preservation of previously acquired knowledge and without the effect of catastrophic forgetting.
+    <li>item Data from previous tasks are not available when new tasks are processed.
+</ul>
+I first reproduce two bases approaches:
+<ul>
+    <li>item Learning without forgetting, 
+    <li>item ICaRL
+</ul>
+
+and then I propose some modification to ICaRL in order to try to improve the accuracy.
+  
+The code and the related paper are available <a href="https://github.com/luciainnocenti/Incremental-learning">here</a>
