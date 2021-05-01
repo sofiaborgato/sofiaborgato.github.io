@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lucia Innocenti"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -18,5 +18,14 @@ You can contact me via [email](mailto:lucia.innocenti@outlook.it) or [linkedin](
 
 **My interests:**        Machine Learning             Optimization methods               Deep Learning            
 
-
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Interests</b></td>
+    <td><b style="font-size:30px">Education</b></td>
+ </tr>
+ <tr>
+    <td>Machine Learning</td>
+    <td>Data science and Engineering</td>
+ </tr>
+</table>
 ---
