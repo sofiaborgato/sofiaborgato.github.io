@@ -36,5 +36,3 @@ You can contact me via [email](mailto:lucia.innocenti@outlook.it) or [linkedin](
 </tr>
 </table>
 
-
----
