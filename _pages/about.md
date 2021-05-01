@@ -19,19 +19,21 @@ You can contact me via [email](mailto:lucia.innocenti@outlook.it) or [linkedin](
 
 <table border="0" cellspacing="0" cellpadding="0" align="center">
  <tr>
-    <td><b style="font-size:30px">Interests</b></td>
-    <td><b style="font-size:30px">Education</b></td>
+    <td colspan="4" style="border:none !important" ><b style="font-size:30px">Interests</b></td>
+    <td colspan="4" style="border:none !important" ><b style="font-size:30px">Education</b></td>
  </tr>
  <tr>
-    <td><i class="fas fa-circle"></i> Machine Learning</td>
-   <td><i class="fas fa-user-graduate"></i><a href="https://didattica.polito.it/laurea_magistrale/data_science/en/home"> Data science and Engineering - Polito</a></td>
+    <td colspan="4" style="border:none !important" ><i class="fas fa-circle"></i> Machine Learning</td>
+   <td colspan="4" style="border:none !important" ><i class="fas fa-user-graduate"></i><a href="https://didattica.polito.it/laurea_magistrale/data_science/en/home"> Data science and Engineering - Polito</a></td>
  </tr>
  <tr>
-  <td><i class="fas fa-circle"></i> Deep Learning</td>
-   <td><i class="fas fa-user-graduate"></i><a href="https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa.corsi?p_sdu_cds=37:18&p_a_acc=2021&p_header=N&p_lang=EN">Computer Engineering - Polito</a></td>
+ </tr>
+ <tr>
+  <td colspan="4" style="border:none !important" ><i class="fas fa-circle"></i> Deep Learning</td>
+  <td colspan="4" style="border:none !important" ><i class="fas fa-user-graduate"></i><a href="https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa.corsi?p_sdu_cds=37:18&p_a_acc=2021&p_header=N&p_lang=EN">Computer Engineering - Polito</a></td>
 </tr>
 <tr>
-  <td><i class="fas fa-circle"></i> Optimization methods and Decision Making</td>
+  <td colspan="4" style="border:none !important" ><i class="fas fa-circle"></i> Optimization methods and Decision Making</td>
 </tr>
 </table>
 
