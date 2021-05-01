@@ -16,8 +16,7 @@ You can contact me via [email](mailto:lucia.innocenti@outlook.it) or [linkedin](
 
 ---
      
-
-<table border="0" cellspacing="0" cellpadding="0" align="center">
+<table id="myHeader" class="table  table-bordered table-responsive" style="border-top:none !important; border-right:none !important; border-left:none !important">
  <tr>
     <td colspan="4" style="border:none !important" ><b style="font-size:30px">Interests</b></td>
     <td colspan="4" style="border:none !important" ><b style="font-size:30px">Education</b></td>
