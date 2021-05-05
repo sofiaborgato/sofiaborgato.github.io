@@ -52,7 +52,7 @@ Skills
   * Spark
 * **Databases**
   * SQL
-  * NOSQL
+  * NOSQL: MongoDB
  
 
 
