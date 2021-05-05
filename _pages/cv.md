@@ -17,13 +17,13 @@ Education
 
 Work experience
 ======
-* **2021: Part-time Collaborator @PoliTo**
+* **Oct20 - Jul21: Part-time Collaborator @PoliTo**
   * At the Politecnico di Torino, the Collaborator helps the professor in teaching activities, especially during practice laboratories.
   * Courses: 
     *  **Python course**, basic of programming, data structure and logic
     *  **Bionformatics**, focusing on basic programming skills and Deep Learning and Machine Learning.
 
-* **2021: Data Scientist @MALTO**
+* **Dec20 - Now: Data Scientist @MALTO**
   * MALTO is a university Team at Politecnico di Torino, which goal is to partecipate at Data Science Competitions
   * Duties included: Data Science competitions
 
