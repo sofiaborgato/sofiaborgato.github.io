@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Engineering, Politecnico di Torino, 2019
-* M.S. in Data Science and Engineering, Politecnico di Torino, 2022 (expected)
+* B.Sc. in Computer Engineering, Politecnico di Torino, 2019
+* M.Sc. in Data Science and Engineering, Politecnico di Torino, 2022 (expected)
 
 
 Work experience
 ======
 * **Oct20 - Jul21: Part-time Collaborator @PoliTo**
-  * At the Politecnico di Torino, the Collaborator helps the professor in teaching activities, especially during practice laboratories.
+  * At the Politecnico di Torino, the collaborator helps the professor in teaching activities, especially during practice laboratories.
   * Courses: 
-    *  **Python course**, basic of programming, data structure and logic
+    *  **Python class**, basic of programming, data structure and logic
     *  **Bionformatics**, focusing on basic programming skills and Deep Learning and Machine Learning.
 
 * **Dec20 - Now: Data Scientist @MALTO**
