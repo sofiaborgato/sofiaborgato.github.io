@@ -52,9 +52,9 @@ Computer skills
   * SQL
   * NOSQL: MongoDB
  * **Software**
-  * Office 365
-  * RapidMiner
-  * Tableau
+    * Office 365
+    * RapidMiner
+    * Tableau
  
 Exams
 ======
