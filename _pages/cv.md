@@ -55,6 +55,22 @@ Computer skills
   * Office 365
   * RapidMiner
   * Tableau
+ 
+Exams
+======
+* **MSC in Data Science and Engineering**
+* ExamsData science lab: process and methods
+* Data management and visualization
+* Database
+* Mathematics in Machine Learning
+* Statistical methods in data science
+* Distributed architectures for big data processing and analytic
+* Machine learning and Deep learningBioinformatic
+* Data ethics and protection
+* Innovation management
+* Network dynamics and learning
+* Decision making and optimization
+ 
   
 
 
