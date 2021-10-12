@@ -7,5 +7,6 @@ collection: portfolio
 
 In the end of 2019 a new virus of the species SARS-CoV was spotted in some inhabitants of Chinese region Wuhan. The virus causes a severe respiratory illness later called COVID-19 which led to a global pandemic. A year later, in December 2020, the first vaccine approved by EMA was adopted for EU citizens. At the same time, due to some key mutations in the genome of the virus, new lineages of the viruses, commonly known as variants, began to spread, with the risk of making the vaccines less effective.
 The idea of this work is to automatize the process of analysis and description of the virus starting from a sample of its genome and to be able to assign a group of samples to the correct variant. By using a clustering algorithm, in the end, it's also possible to distinguish a new variant and obtain a description of its most common mutations.
-
-The whole project is available <a href="https://github.com/sofiaborgato/Network_dynaminc/blob/main/Homework03_V2.ipynb" target="_blank" >here</a>
+The final pipeline receives as input a FASTA file containing genome sequences from SARS-CoV-2 virus, aligns them to a reference genome with an algorithm of local alignment and compares them to the
+reference to obtain information about the mutations. This information can be exploited to train supervised classifiers which can assign the samples to the correct variant or to train a clustering algorithm to highlight new clusters of genomes, which could represent new unseen variants. 
+The whole project is available <a href="https://github.com/sofiaborgato/Bioinformatic_project" target="_blank" >here</a>
