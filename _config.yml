@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lucia Innocenti"
+title                    : "Sofia Borgato"
 title_separator          : "-"
 name                     : &name "Lucia Innocenti"
 description              : &description "Data science student"
-url                      : https://luciainnocenti.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sofiaborgato.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "luciainnocenti/luciainnocenti.github.io"
+repository               : "sofiaborgato/sofiaborgato.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "cia_innocenti"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lucia Innocenti"
+  name             : "Sofia Borgato"
   avatar           : "foto.jpeg"
   bio              : "Data science student"
   location         : "Turin"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "luciainnocenti"
+  github           : "sofiaborgato"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "lucia-innocenti"
+  linkedin         : 
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "cia_innocenti"
+  twitter          :
   vine             :
   weibo            :
   xing             :
