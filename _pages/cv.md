@@ -20,7 +20,7 @@ Communication skills
 ======
 * Native speaker: Italian
 * Other Language: English
-  * | Listening | Reading | Writing |
+    | Listening | Reading | Writing |
     | --------- | ------- | ------- |
     | B2 | B2 | B2 |
 
