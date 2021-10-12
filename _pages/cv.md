@@ -73,8 +73,8 @@ Exams
 
 Interest
 ======
-* **Professional**:Data Science, Machine Learning,Deep learning, Artificial Intelligence, Bioinformatic, Oncology .
-*  **Personal**:Music, Snowboard, Surf, Mountain. 
+* **Professional**: Data Science, Machine Learning,Deep learning, Artificial Intelligence, Bioinformatic, Oncology .
+*  **Personal**: Music, Snowboard, Surf, Mountain. 
  
   
 
