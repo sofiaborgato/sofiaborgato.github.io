@@ -59,7 +59,7 @@ Computer skills
 Exams
 ======
 **MSc in Data Science and Engineering**
-* ExamsData science lab: process and methods
+* Data science lab: process and methods
 * Data management and visualization
 * Database
 * Mathematics in Machine Learning
@@ -70,6 +70,11 @@ Exams
 * Innovation management
 * Network dynamics and learning
 * Decision making and optimization
+
+Interest
+======
+* **Professional**:Data Science, Machine Learning,Deep learning, Artificial Intelligence, Bioinformatic, Oncology .
+*  **Personal**:Music, Snowboard, Surf, Mountain. 
  
   
 
