@@ -20,9 +20,18 @@ Communication skills
 ======
 * Native speaker: Italian
 * Other Language: English
-    | Listening | Reading | Writing |
-    | --------- | ------- | ------- |
-    | B2 | B2 | B2 |
+<table style="width:100%; border: 1px solid black; border-collapse: collapse">
+  <tr>
+    <th style="border: 1px solid black; border-collapse: collapse">Writing</th>
+    <th style="border: 1px solid black; border-collapse: collapse">Reading</th>
+    <th style="border: 1px solid black; border-collapse: collapse">Listening</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; border-collapse: collapse">B2</td>
+    <td style="border: 1px solid black; border-collapse: collapse">B2</td>
+    <td style="border: 1px solid black; border-collapse: collapse">B2</td>
+  </tr>
+</table>
 
 Computer skills
 ======
