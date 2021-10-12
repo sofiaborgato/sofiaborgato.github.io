@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Computer Engineering, Politecnico di Torino, 2019
-* M.Sc. in Data Science and Engineering, Politecnico di Torino, 2022 (expected)
+* B.Sc. in Physic Engineering, Politecnico di Torino, 2019
+* M.Sc. in Data Science and Engineering, Politecnico di Torino, 2021 (expected), Thesis title: Nanotechnology-based drug delivery systems for Tumor Treatment 
+
 
 
 Work experience
