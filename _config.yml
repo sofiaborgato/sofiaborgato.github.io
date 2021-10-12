@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Sofia Borgato"
 title_separator          : "-"
-name                     : &name "Lucia Innocenti"
+name                     : &name "Sofia Borgato"
 description              : &description "Data science student"
 url                      : https://sofiaborgato.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
