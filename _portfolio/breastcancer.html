@@ -1,9 +1,26 @@
 ---
-title: "Breast Cancer Classification Task"
-excerpt: "The aim of this analysis is to perform a binary classification task and point out which features are most relevant in predicting if the mass is malignant or benign. Different strategies of  \textit{features selection} are compared both unsupervised and supervised. Also different machine learning approach are presented. "
-The whole project is available <a href="https://colab.research.google.com/drive/1oO9vto6SDHc0Cuh-FQLfyklfBHWNorwy?usp=sharing" target="_blank" >here</a>
+title: "Breast Cancer classification task"
+excerpt: "The main goal of this project is to implement a neural network capable of learning different tasks without forgetting the ones it has learned before. [Code here](https://github.com/luciainnocenti/Incremental-learning)"
 collection: portfolio
 ---
 
-prova
+The main goal of this project is to implement a neural network capable of learning different tasks without forgetting the ones it has learned before.
+This is a very important goal for neural network, the one that most approaches neural networks to artificial intelligence. 
+It is a relatively new problem, so in literature there are not so many papers. 
+We can formalize the purpose of this work in the following way: given a CNN with certain shared parameters $\theta_s$, add task specific parameters $\theta_n$ for a new task that works well both on old and new tasks.
+There are some constrains that defines that the network is incremental learning new tasks:
+<ul>
+    <li> The model has to adapt gradually i.e. is constructed based on without complete retraining.
+    <li> Preservation of previously acquired knowledge and without the effect of catastrophic forgetting.
+    <li> Data from previous tasks are not available when new tasks are processed.
+</ul>
+I first reproduce two bases approaches:
+<ul>
+    <li> Learning without forgetting, 
+    <li> ICaRL
+</ul>
+
+and then I propose some modification to ICaRL in order to try to improve the accuracy.
+  
+The code and the related paper are available <a href="https://github.com/luciainnocenti/Incremental-learning" target="_blank" >here</a>
 
