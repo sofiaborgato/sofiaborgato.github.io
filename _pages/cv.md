@@ -58,7 +58,7 @@ Computer skills
  
 Exams
 ======
-**MSC in Data Science and Engineering**
+**MSc in Data Science and Engineering**
 * ExamsData science lab: process and methods
 * Data management and visualization
 * Database
