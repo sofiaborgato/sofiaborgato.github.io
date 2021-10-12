@@ -24,18 +24,28 @@ Communication skills
     | --------- | ------- | ------- |
     | B2 | B2 | B2 |
 
-Skills
+Computer skills
 ======
+* **Operating Systems**
+  * Windows
+  * MacOs
+  * Linux (Basics)
 * **Programming languages**
   * C
   * PYTHON (SKlearn, Pytorch, Tensforflow)
   * JAVA
+  * Julia
+  * VisualBasic
 * **Framework**
   * Hadoop
   * Spark
 * **Databases**
   * SQL
   * NOSQL: MongoDB
- 
+ * **Software**
+  * Office 365
+  * RapidMiner
+  * Tableau
+  
 
 
