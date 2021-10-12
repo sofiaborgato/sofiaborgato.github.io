@@ -41,7 +41,7 @@ Computer skills
   * Linux (Basics)
 * **Programming languages**
   * C
-  * PYTHON (SKlearn, Pytorch, Tensforflow)
+  * PYTHON
   * JAVA
   * Julia
   * VisualBasic
