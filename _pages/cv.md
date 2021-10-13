@@ -41,7 +41,7 @@ Computer skills
   * Linux (Basics)
 * **Programming languages**
   * C
-  * PYTHON
+  * Python
   * JAVA
   * Julia
   * VisualBasic
@@ -55,6 +55,7 @@ Computer skills
     * Office 365
     * RapidMiner
     * Tableau
+    * RStudio
  
 Exams
 ======
