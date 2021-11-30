@@ -1,31 +1,17 @@
 ---
-title: "Sweden H1N1 pandemic simulation"
-excerpt: "This project goal is to simulate the H1N1 pandemic in Sweden, 2009 using network dynamics models. [Code here](https://github.com/sofiaborgato/Network_dynaminc/blob/main/Homework03_V2.ipynb)"
+title: "Master thesis:Graph Convolutional Network for the prediction of antimicrobial resistance"
+excerpt: "The project aims to produce a model capable of predictin antimicrobial resistance starting from bacterial genomes samples"
 collection: portfolio
 
 ---
 
 
-During the fall of 2009 there was a large pandemic of the H1N1-virus, commonly known as the swine-flu. 
-During this pandemic it is estimated that about 1.5 million people in Sweden were infected. 
-As an attempt to stop the pandemic and reduce excess mortality the government issued a vaccination program beginning in week 40 of 2009. 
-During the weeks that followed they vaccinated more than 60% of the Swedish population. 
+Antimicrobial resistance is one of the main threats to global health.
+Antibiotics still represent the most reliable solution for bacterial infection treatment, but the spread of antibiotic resistance threatens their efficacy resulting in a dramatic worldwide increase in morbidity and mortality.
+Each bacterial species is often only susceptible to a few specific antibiotics; this is why it is critical to identify the correct and still effective antibiotic to be used in a clinical setting. Although genetic testing of bacteria is increasingly used in the medical lab, a time-consuming antibiogram, based on bacterial cultures, is still the standard approach.
+Current techniques make it possible to sequence bacterial DNA in a much shorter time, allowing the discrimination of a resistant bacterium from a susceptible one based on the presence of specific elements that confer resistance.
+This thesis aims to perform this task on general basis, classifying bacteria genomes through Graph Neural Networks (GNN). A GNN represents a particular deep learning technique developed first time in 2009 as a promising solution for dealing with graph-structured data. The raw data that constitute the bacterial genome can be transformed into particular graphs, such as De Bruijn Graph, and then used to train a GNN. 
+In this context, the primary methods are described and compared, focusing on how the convolution in Euclidean space could be extended to the case of graphs. 
+For the genome of Staphylococcus aureus, in the case of several antibiotics, such as Oxacillin, Erythromycin, Ciprofloxacin, the experimental evaluation demonstrates that Graph Sage convolution, a particular operator suitable for processing large graphs, has been shown to classify the characteristic resistance/susceptibility correctly. The mean accuracy obtained with stratified k-fold cross-validation is higher than the $80\%$ for Ciprofloxacin.
+This study, clearly, demonstrates the possibility of predicting the occurrence of the phenomenon of antimicrobial resistance with GNN models. It can therefore aspire to help in evaluations and clinical studies.
 
-For this project, the goal was to simulate the pandemic, focusing on learning the network structure characteristics and disease-dynamics 
-parameters of the pandemic in Sweden 2009.
-
-At first step, it was done by using a SIR model on a random graph. Then, as second step, a more complicated graph was used: starting from
-a complete graph, by using a "preferential attachement" model, we tried to simulate the social structure, first as a fixed structure (one graph, the same, for the 
-entire evolution) then with a dynamic one (graph, like real social structure, changed continuously).
-
-Starting from this behavior, we move for a SIR model to a SIR with vaccinations model.
-
-As a final step, we apply the concept of "community network" to our problem:
-in order to define the graph as similar as possibile to the swedish society, we start from a list of all regions in Sweden, 
-each one characterized by the population density and by the distances in km to all the other ones. 
-Each region defines a comunity; the number of edges and the average degree are related to the population density. Then we create links among regions,
-defining an interconnection parameter for each couple of regions, that is function of their mutual distance.
-The vaccination simulation has then been repeated on this graph.
-
-
-The whole project is available <a href="https://github.com/sofiaborgato/Network_dynaminc/blob/main/Homework03_V2.ipynb" target="_blank" >here</a>
