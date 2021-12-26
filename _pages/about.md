@@ -36,7 +36,7 @@ You can contact me via [email](mailto:sofiaborgato71194@gmail.com).
   </td>
   <td colspan="4" style="border:none !important" >
   <ul style="list-style-type:none; padding:0">
-    <li style="margin-bottom: 15px;"> <i class="fas fa-user-graduate"></i><a href="https://didattica.polito.it/laurea_magistrale/data_science/en/home" target="_blank"> Data Science and Engineering</a></li> <p> Master's Degree, Politecnico di Torino, 2019-2021 (expected)</p>
+    <li style="margin-bottom: 15px;"> <i class="fas fa-user-graduate"></i><a href="https://didattica.polito.it/laurea_magistrale/data_science/en/home" target="_blank"> Data Science and Engineering</a></li> <p> Master's Degree, Politecnico di Torino, 2019-2021 </p>
     <li style="margin-bottom: 15px;"> <i class="fas fa-user-graduate"></i><a href="https://didattica.polito.it/laurea/ingegneria_fisica/it/presentazione" target="_blank">Physics Engineering</a> </li> <p> Bachelor's Degree, Politecnico di Torino, 2014-2018 </p>
   </ul>
   </td>
