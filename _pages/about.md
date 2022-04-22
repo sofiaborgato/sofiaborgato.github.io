@@ -12,7 +12,7 @@ redirect_from:
 
 I have always been interested in biology and initially thought about pursuing a career as a doctor. Then I realized that instead of wanting to treat individual patients I preferred to statistically analyze the disease at issue by looking for engineering solutions to the problem. 
 It was at this point that my passion for medicine met data science. 
-Now I am finishing my studies in data science and engineering at the Polytechnic of Turin, and for my future I would like to combine my two passions. 
+Now I finished my studies in data science and engineering at the Polytechnic of Turin, and for my future I would like to combine my two passions. 
 
 
 
